@@ -36,8 +36,9 @@
  - Next Update SLOWREAD method (SOON...)
 ```
 
+```
 
-git clone https://github.com/cutipu/HASOKI.git
+git clone https://github.com/Exileominous/DDOSV2.git
 python setup.py
 pip install -r requirements.txt
 python main.py
